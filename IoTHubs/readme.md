@@ -1,6 +1,6 @@
 # MISSION GOAL : ESTABLISH IOT HUB COMMUNICATIONS
 
-We have lost communications with the space station.  However, we have indications that there are still devices running on Mars.  We know that there is a coffee pot on the station that we can communicate with using Azure IoT Hubs, and a command set inspired by the Hypertext Coffee Pot Control Protocol (HTCPCP/v1.0, [RFC 2342](https://www.ietf.org/rfc/rfc2324.txt)).  First, we will provide you with some core skill training to help you ramp up an Azure IoT Hubs, then we'll have you to attempt to establish communications with the coffee pot.
+We have lost communications with the space station.  However, we have indications that there are still devices running on Mars.  We know that there is a coffee pot on the station that we can communicate with using Azure IoT Hubs, and a command set inspired by the Hypertext Coffee Pot Control Protocol (HTCPCP/v1.0, <a target="_blank" href="https://www.ietf.org/rfc/rfc2324.txt">RFC 2342</a>).  First, we will provide you with some core skill training to help you ramp up an Azure IoT Hubs, then we'll have you to attempt to establish communications with the coffee pot.
 
 ____
 
@@ -11,11 +11,11 @@ Before you can successfully communicate with the devices, you must first master 
 > **Note**: Even if you are working in teams, it is recommended that each team member complete the core skill training exercises.  This will make sure that the entire team is ready to accomplish the Mission Objectives. 
 
 1. Getting Started with Azure IoT Hubs (pick your preferred langauge):
-    - C#: "[Get started with Azure IoT Hub for .NET](https://azure.microsoft.com/en-us/documentation/articles/iot-hub-csharp-csharp-getstarted/)"
-    - Node.js: "[Get started with Azure IoT Hub for Node.js](https://azure.microsoft.com/en-us/documentation/articles/iot-hub-node-node-getstarted/)"
+    - C#: "<a target="_blank" href="https://azure.microsoft.com/en-us/documentation/articles/iot-hub-csharp-csharp-getstarted/">Get started with Azure IoT Hub for .NET</a>"
+    - Node.js: "<a target="_blank" href="https://azure.microsoft.com/en-us/documentation/articles/iot-hub-node-node-getstarted/">Get started with Azure IoT Hub for Node.js</a>"
 1. Sending Cloud-to-Device (C2D) Messages:
-    - C#: "[How to send cloud-to-device messages with IoT Hub and .Net](https://azure.microsoft.com/en-us/documentation/articles/iot-hub-csharp-csharp-c2d/)"
-    - Node.js: "[How to send cloud-to-device messages with IoT Hub and Node.js](https://azure.microsoft.com/en-us/documentation/articles/iot-hub-node-node-c2d/)"
+    - C#: "<a target="_blank" href="https://azure.microsoft.com/en-us/documentation/articles/iot-hub-csharp-csharp-c2d/">How to send cloud-to-device messages with IoT Hub and .Net</a>"
+    - Node.js: "<a target="_blank" href="https://azure.microsoft.com/en-us/documentation/articles/iot-hub-node-node-c2d/">How to send cloud-to-device messages with IoT Hub and Node.js</a>"
 
     > **Note**: In the Node.js sample instructions you are told to install the `azure-iothub` npm package.  You must ALSO intsall the `azure-iot-common` npm package:
 

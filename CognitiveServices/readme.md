@@ -10,7 +10,7 @@ To ensure that you are technically proficient with the Cognitive Services Face A
 
 > **Note**: Even if you are working in teams, it is recommended that each team member complete the core skill training exercises.  This will make sure that the entire team is ready to accomplish the Mission Objectives. 
 
-1. [Get Started with Face API in C#](https://www.microsoft.com/cognitive-services/en-us/face-api/documentation/get-started-with-face-api/GettingStartedwithFaceAPIinCSharp)
+1. <a target="_blank" href="https://www.microsoft.com/cognitive-services/en-us/face-api/documentation/get-started-with-face-api/GettingStartedwithFaceAPIinCSharp">Get Started with Face API in C#</a>
 
 ____
 
@@ -33,9 +33,9 @@ To verify the crew status:
 
 1. Upload the photo to congitive services using the application you created in the core skills training exercise above.
 
-    > **Note:** if you had problems creating the app above, or just didn't have time, you can use the sample implementation [here](https://www.microsoft.com/cognitive-services/en-us/face-api)
+    > **Note:** if you had problems creating the app above, or just didn't have time, you can use the sample implementation <a target="_blank" href="https://www.microsoft.com/cognitive-services/en-us/face-api">here</a>
 
-1. Count the faces, and verify that all six crew members are present. 
+1. Count the faces, and verify that all six crew members are present.
 
-1. Look for any additional faces or life forms that may be present.  
+1. Look for any additional faces or life forms that may be present.
 
