@@ -4,9 +4,9 @@ To help re-establish communications with the team on Mars, you must accomplish t
 
 Mission control has established the following three goals.
 
-1. [Establish IoT Hub Communications](IoTHubs/readme.md)
-1. [Confirm data using Power BI Embedded](PowerBIEmbedded/readme.md)
-1. [Verify staff using Cognitive Services](CognitiveServices/readme.md)
+1. [Establish IoT Hub Communications](IoTHubs)
+1. [Confirm data using Power BI Embedded](PowerBIEmbedded)
+1. [Verify staff using Cognitive Services](CognitiveServices)
 
 
 
